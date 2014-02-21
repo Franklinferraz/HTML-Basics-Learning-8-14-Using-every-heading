@@ -1,0 +1,12 @@
+Using every heading
+Nice work!
+
+Given that there are six heading sizes altogether, we should make use of all six.
+
+Instructions
+Add three more headings to the code, making use of <h2>, <h4> and <h6>. 
+Make sure to close all your tags!
+Under each heading, add a short paragraph. 
+Dont forget paragraphs need opening and closing <p></p> tags!
+
+Q&A ForumGlossary
